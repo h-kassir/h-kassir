@@ -35,9 +35,6 @@ Previously at [**Queen Mary University of London**](https://www.qmul.ac.uk/) whe
 ### [Variant Calling Pipeline (GATK4)](https://github.com/h-kassir/Variant-Calling_BASH_Pipeline)
 End-to-end Bash pipeline for germline variant calling using GATK4 best practices — from raw FASTQ to annotated VCF. Fully documented and reproducible.
 
-### [Drug Target & Functional Genomics — Open Targets + FUSIL](https://github.com/h-kassir/4_Open_Target_FUSIL_Analysis)
-Integrative analysis of drug–gene interactions using Open Targets, DrugBank, and FUSIL essentiality data. Includes network statistics, therapeutic class stratification, and disease ontology mapping.
-
 ### [MHRA Yellow Card + FUSIL Side Effect Analysis](https://github.com/h-kassir/YC_MHRA_FUSIL_Analysis)
 R-based analysis linking real-world pharmacovigilance data (MHRA Yellow Card) with gene essentiality (FUSIL) and drug target data from Open Targets. Figures and reproducible R Markdown report included.
 
@@ -47,9 +44,6 @@ GSE analysis of human gene paralogues grouped by FUSIL essentiality bins. Integr
 ### [DrugBank XML Data Extraction Pipeline](https://github.com/h-kassir/DRUG-targets-project-data-wrangling-scripts)
 R scripts for programmatic extraction and wrangling of structured data from the full DrugBank XML database, producing clean, analysis-ready datasets.
 
-### [DNA Sequence Utilities (Python)](https://github.com/h-kassir/dnatools)
-Lightweight Python toolkit for GC content calculation, reverse complement generation, and in-frame stop codon detection.
-
 ---
 
 ## 📚 Background
@@ -58,8 +52,6 @@ Lightweight Python toolkit for GC content calculation, reverse complement genera
 - 🎓 **BSc Pharmacy** — Lebanese International University *(2018)*
 - 🏥 **Genomic Data Scientist** — QMUL / WHRI Phenogenomics *(2025)*
 - 🔬 **Postgraduate Research Assistant** — QMUL *(2024)*
-- ✅ Good Clinical Practice (GCP) Certified
-- ✅ Google Data Analytics Professional Certificate
 - 🌍 English · French · Arabic
 
 ---
@@ -71,5 +63,3 @@ Lightweight Python toolkit for GC content calculation, reverse complement genera
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--9428--4738-A6CE39?style=flat&logo=orcid)](https://orcid.org/0009-0006-9428-4738)
 
 ---
-
-*Open to bioinformatics analyst, computational biology, and research roles — as well as funded PhD opportunities in genomics and pharmacogenomics.*
