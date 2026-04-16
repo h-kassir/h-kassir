@@ -1,4 +1,4 @@
-# Hi, I'm Hussein 👋
+# Hi, I'm H Kassir👋
 
 **Healthcare Analytics | Genomic Data Science & Bioinformatics** | MSc Genomic Medicine (Distinction) · B.Pharm | London, UK
 
