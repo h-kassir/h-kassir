@@ -46,16 +46,6 @@ R scripts for programmatic extraction and wrangling of structured data from the 
 
 ---
 
-## 📚 Background
-
-- 🎓 **MSc Genomic Medicine** — Queen Mary University of London *(Distinction, 2025)*
-- 🎓 **BSc Pharmacy** — Lebanese International University *(2018)*
-- 🏥 **Genomic Data Scientist** — QMUL / WHRI Phenogenomics *(2025)*
-- 🔬 **Postgraduate Research Assistant** — QMUL *(2024)*
-- 🌍 English · French · Arabic
-
----
-
 ## 📫 Get In Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-h--kassir-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/h-kassir)
