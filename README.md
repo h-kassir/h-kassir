@@ -2,7 +2,7 @@
 
 **Healthcare Analytics | Genomic Data Science & Bioinformatics** | MSc Genomic Medicine (Distinction) · B.Pharm | London, UK
 
-I build reproducible computational pipelines that make large-scale genomic and clinical datasets analysis-ready. My background bridges **pharmacy, pharmacogenomics and healthcare** with **data science** — giving me a clinical lens that most computational biologists don't have.
+I build reproducible computational pipelines that make large-scale genomic and clinical datasets analysis-ready. My background bridges **pharmacy, pharmacogenomics and healthcare** with **data science**.
 
 Previously at [**Queen Mary University of London**](https://www.qmul.ac.uk/) where I worked on the IMPC and Open Targets databases, variant calling pipelines, and drug–gene interaction analyses.
 
