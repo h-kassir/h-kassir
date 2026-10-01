@@ -1,4 +1,4 @@
-# Hi, I'm Hugh👋
+# Hi, I'm Hayden (Hussein)👋
 
 **Healthcare Analytics | Genomic Data Science & Bioinformatics** | MSc Genomic Medicine (Distinction) · B.Pharm | London, UK
 
